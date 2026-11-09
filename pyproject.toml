@@ -27,6 +27,7 @@ app = [
 
 ipynb = [
     "ipykernel>=7.4.0",
+    "scipy-stubs~=1.18.1",
     "pandas",
     "seaborn",
     "jinja2"
